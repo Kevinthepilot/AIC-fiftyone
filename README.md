@@ -20,7 +20,7 @@ Your folder structure should look like this
 ```
 
 ## How to run
-Run this .bat file
+Run this python file
 ```bash
-start.bat
+python app.py
 ```
